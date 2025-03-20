@@ -1,2 +1,11 @@
 # CodeDemo
-4.1 - random colour, map, if/else statement, mouseisPressed()
+Week 1
+Week 2
+Week 3
+Week 4 - generative, random colour, map, if/else statement, mouseisPressed()
+Week 5
+Week 6
+Week 7
+Week 8
+Week 9
+
