@@ -1,4 +1,4 @@
-# CodeDemo
+# Interactive Media 2025
 
 Week 4 - creative coding in p5.js
 Week 5
