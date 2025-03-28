@@ -1,8 +1,6 @@
 # CodeDemo
-Week 1
-Week 2
-Week 3
-Week 4 - generative, random colour, map, if/else statement, mouseisPressed()
+
+Week 4 - creative coding in p5.js
 Week 5
 Week 6
 Week 7
