@@ -1,0 +1,46 @@
+fontface 
+{
+font-family: IBM Plex Mono;
+src: url(/data/IBMPlexMono-Bold.ttf);
+font-weight: 700;
+}
+
+@fontface 
+{
+font-family: IBM Plex Mono;
+src: url(/data/IBMPlexMono-Regular.ttf);
+font-weight: 400;
+}
+
+html {
+  background-color:rgb(50,50,50);
+}
+
+body {
+  background-color: white;
+  margin: 3em 5em;
+  padding: 50px;
+  border: thin solid white;
+}
+
+h1 {
+  color: blue;
+  background-color: #E6E6FA;
+  font-family: "IBM Plex Mono", monospace;
+  padding:10px;
+  font-weight: 700;
+}
+
+p {
+  color: black;
+  font-family: "IBM Plex Mono", monospace ;
+  font-weight: 400;
+}
+
+a {
+  color: orange;
+}
+
+a: hover {
+  color: red;
+}
