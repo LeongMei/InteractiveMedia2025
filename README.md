@@ -1,9 +1,6 @@
 # Interactive Media 2025
 
-Week 4 - creative coding in p5.js
-Week 5
-Week 6
-Week 7
-Week 8
-Week 9
+> Week 4 - creative coding in p5.js
+> Week 5 - mirror, camera as input 
+> Week 6 - data visualisation, sonification, sound as imput
 
