@@ -16,26 +16,26 @@ Please download your 'debugged' files and integrate these sketches into your Wor
 >> If the mode button says 'JAVA' in the top right menu bar, than you are not in the correct mode. You will need to click the 'JAVA' mode button and navigate to the libraries tab to install the p5.js library. <br>
 
 >>> Steps here: <br>
- ** Open the Processing app  <br>
- ** Click on the mode button, on the top right, above the text editor <br>
- ** The mode button will say  'JAVA' by default <br>
- ** Select 'manage modes' in the drop-down <br>
- ** In the mode tab,  search the filter for ‘p5.js’ <br>
- ** Select the p5.js listing and click install <br>
- ** When the installation is complete, open a new sketch file. <br>
- ** select file > select new sketch <br>
-** select the mode button again, set mode to p5.js <br>
- ** save and rename your sketch <br>
+* Open the Processing app  <br>
+* Click on the mode button, on the top right, above the text editor <br>
+* The mode button will say  'JAVA' by default <br>
+* Select 'manage modes' in the drop-down <br>
+* In the mode tab,  search the filter for ‘p5.js’ <br>
+* Select the p5.js listing and click install <br>
+* When the installation is complete, open a new sketch file. <br>
+* select file > select new sketch <br>
+* select the mode button again, set mode to p5.js <br>
+* save and rename your sketch <br>
 
 ###### CHECK YOUR SOFTWARE VERSIONING 
->> Are you running the latest version of Processing <https://processing.org/download> <br>
->> After installing the latest version, you may need to uninstall the older version of Processing. <br>
->> Make sure you are working in the updated version. <br>
+<strong> Are you running the latest version of Processing <https://processing.org/download> </strong><br>
+After installing the latest version, you may need to uninstall the older version of Processing. <br>
+Make sure you are working in the updated version. <br>
 
 ###### OSX Compatible 
->> ** <b> Is the Processing app compatible with your your operating system? </b>?<br>
->> ** Macbook users will need either the Apple Silicon or Intel version <br>
->> **  Mac users - find your type by going to the Apple Icon > About This Mac > Graphics will list either Apple Silicon or Intel <br>
+<b> Is the Processing app compatible with your your operating system? </b>?<br>
+* Macbook users will need either the Apple Silicon or Intel version <br>
+* To find your Mac chip version: Apple Icon > About This Mac > Graphics will list either Apple Silicon or Intel <br>
 
 
 
