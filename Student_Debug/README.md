@@ -1,4 +1,4 @@
-#STUDENT DEBUGGING - A PLACE TO SHARE P5.JS SKETCHES FOR CODE SUPPORT.
+## STUDENT DEBUGGING - A PLACE TO SHARE P5.JS SKETCHES FOR CODE SUPPORT.
 >> Debugged files will be shared here for p5.js projects.
 >>  Please download your 'debugged' files and integrate these sketches into your Workbook project. <br>
 
@@ -11,7 +11,7 @@
 
 ### SET UP YOUR ENVIRONMENT
 
->>#### SET THE MODE TO P5.JS <br>
+#### SET THE MODE TO P5.JS <br>
 >> Is your Processing App set to p5.js mode? If not, you won't be able to run your sketch. <br>
 >> If the top right button says 'JAVA' bar above the text editor need to click the mode button and navigate to the libraries tab to download the p5.js library. <br>
 >> This will let you code in p5.js.<br>
