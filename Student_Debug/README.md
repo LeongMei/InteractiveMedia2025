@@ -14,7 +14,7 @@ Please download your 'debugged' files and integrate these sketches into your Wor
 ###### SET THE MODE TO P5.JS <br>
 >> Is your Processing App set to p5.js mode? If not, you won't be able to run your sketch. <br>
 >> If the mode button says 'JAVA' in the top right menu bar, than you are not in the correct mode. You will need to click the 'JAVA' mode button and navigate to the libraries tab to install the p5.js library. <br>
-<br> 
+
 >>> Steps here: <br>
  ** Open the Processing app  <br>
  ** Click on the mode button, on the top right, above the text editor <br>
