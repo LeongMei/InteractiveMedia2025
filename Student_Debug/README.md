@@ -4,7 +4,7 @@ Please download your 'debugged' files and integrate these sketches into your Wor
 
 #### TROUBLESHOOTING
 
-######SAVE YOUR SKETCH AND CHECK YOUR LINK PATHS
+###### SAVE YOUR SKETCH AND CHECK YOUR LINK PATHS
 >> Save and rename your sketch, when you create a new p5 project. <br>
 >> This will create a sketch folder, that holds your sketch <br>
 >> To copy an asset file into your sketch folder, like an image or font, drag the file over the text editor. <br>
