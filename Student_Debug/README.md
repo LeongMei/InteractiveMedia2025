@@ -34,9 +34,9 @@ Please download your 'debugged' files and integrate these sketches into your Wor
 >> Make sure you are working in the updated version. <br>
 
 ###### OSX Compatible 
-  >>> ** <b> Is the Processing app compatible with your your operating system? <br>
->>> ** Macbook users will need either the Apple Silicon or Intel version <br>
-    >>>> **  Mac users - find your type by going to the Apple Icon > About This Mac > Graphics will list either Apple Silicon or Intel <br>
+>> ** <b> Is the Processing app compatible with your your operating system? </b>?<br>
+>> ** Macbook users will need either the Apple Silicon or Intel version <br>
+>> **  Mac users - find your type by going to the Apple Icon > About This Mac > Graphics will list either Apple Silicon or Intel <br>
 
 
 
