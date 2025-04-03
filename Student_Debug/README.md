@@ -16,7 +16,7 @@ Please download your 'debugged' files and integrate these sketches into your Wor
 >> If the mode button says 'JAVA' in the top right menu bar, than you are not in the correct mode. You will need to click the 'JAVA' mode button and navigate to the libraries tab to install the p5.js library. <br>
 
 >>> Steps here: <br>
-* Open the Processing app  <br>
+>> * Open the Processing app  <br>
 * Click on the mode button, on the top right, above the text editor <br>
 * The mode button will say  'JAVA' by default <br>
 * Select 'manage modes' in the drop-down <br>
