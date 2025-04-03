@@ -4,28 +4,27 @@ Please download your 'debugged' files and integrate these sketches into your Wor
 
 #### TROUBLESHOOTING
 
-###### SAVE YOUR SKETCH AND CHECK YOUR LINK PATHS
->> Save and rename your sketch, when you create a new p5 project. <br>
->> This will create a sketch folder, that holds your sketch <br>
->> To copy an asset file into your sketch folder, like an image or font, drag the file over the text editor. <br>
+SAVE YOUR SKETCH AND CHECK YOUR LINK PATHS
+> Save and rename your sketch, when you create a new p5 project. <br>
+> This will create a sketch folder, that holds your sketch <br>
+> To copy an asset file into your sketch folder, like an image or font, drag the file over the text editor. <br>
 
-##### SET UP YOUR ENVIRONMENT
+SET UP YOUR ENVIRONMENT IN PROCESSING
 
-###### SET THE MODE TO P5.JS <br>
->> Is your Processing App set to p5.js mode? If not, you won't be able to run your sketch. <br>
->> If the mode button says 'JAVA' in the top right menu bar, than you are not in the correct mode. You will need to click the 'JAVA' mode button and navigate to the libraries tab to install the p5.js library. <br>
+###### ARE YOU CODING IN P5.JS MODE? <br>
+> Is your Processing App set to p5.js mode? If not, you won't be able to run your sketch. <br>
+> If the mode button says 'JAVA' in the top right menu bar, than you are not in the correct mode. You will need to click the 'JAVA' mode button and navigate to the libraries tab to install the p5.js library. <br>
 
->>> Steps here: <br>
->> * Open the Processing app  <br>
+> STEPS - SET MODE TO P5.JS <br>
+* Open the Processing app  <br>
 * Click on the mode button, on the top right, above the text editor <br>
 * The mode button will say  'JAVA' by default <br>
 * Select 'manage modes' in the drop-down <br>
 * In the mode tab,  search the filter for ‘p5.js’ <br>
-* Select the p5.js listing and click install <br>
+* Select the p5.js listing and click to install the p5.js library <br>
 * When the installation is complete, open a new sketch file. <br>
-* select file > select new sketch <br>
-* select the mode button again, set mode to p5.js <br>
-* save and rename your sketch <br>
+* select the mode button again & select p5.js <br>
+* Now you a ready to code! Remember to save and rename your sketch <br>
 
 ###### CHECK YOUR SOFTWARE VERSIONING 
 <strong> Are you running the latest version of Processing <https://processing.org/download> </strong><br>
