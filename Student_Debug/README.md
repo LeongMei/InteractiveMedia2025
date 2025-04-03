@@ -31,7 +31,6 @@ Please download your 'debugged' files and integrate these sketches into your Wor
 > After installing the latest version, you may need to uninstall the older version of Processing. <br>
 > Make sure you are working in the updated version. <br>
 
-> ###### OSX Compatible 
 > <b> Is the Processing app compatible with your your operating system? </b>?<br>
 > * Macbook users will need either the Apple Silicon or Intel version <br>
 > * To find your Mac chip version: Apple Icon > About This Mac > Graphics will list either Apple Silicon or Intel <br>
