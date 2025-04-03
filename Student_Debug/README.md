@@ -15,7 +15,7 @@ SAVE YOUR SKETCH AND CHECK YOUR LINK PATHS
 > Is your Processing App set to p5.js mode? If not, you won't be able to run your sketch. <br>
 > If the mode button says 'JAVA' in the top right menu bar, than you are not in the correct mode. You will need to click the 'JAVA' mode button and navigate to the libraries tab to install the p5.js library. <br>
 
-> STEPS - SET MODE TO P5.JS <br>
+###### STEPS - SET MODE TO P5.JS <br>
 1. Open the Processing app  <br>
 2. Click on the mode button, on the top right, above the text editor <br>
 3. The mode button will say  'JAVA' by default <br>
@@ -27,7 +27,7 @@ SAVE YOUR SKETCH AND CHECK YOUR LINK PATHS
 9. Now you a ready to code! Remember to save and rename your sketch <br>
 
 ###### CHECK YOUR SOFTWARE VERSIONING 
-<strong> Are you running the latest version of Processing <https://processing.org/download> </strong><br>
+<strong> Are you running the latest version of Processing <https://processing.org/download> </strong> <br>
 After installing the latest version, you may need to uninstall the older version of Processing. <br>
 Make sure you are working in the updated version. <br>
 
