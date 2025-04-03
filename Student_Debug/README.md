@@ -27,7 +27,7 @@ Please download your 'debugged' files and integrate these sketches into your Wor
 > 9. Now you a ready to code! Remember to save and rename your sketch <br>
 
 > ###### CHECK YOUR SOFTWARE VERSIONING 
-> <strong> Are you running the latest version of Processing <https://processing.org/download> </strong> <br>
+> <strong> Are you running the latest version of Processing -> link here: <https://processing.org/download> </strong> <br>
 > After installing the latest version, you may need to uninstall the older version of Processing. <br>
 > Make sure you are working in the updated version. <br>
 
