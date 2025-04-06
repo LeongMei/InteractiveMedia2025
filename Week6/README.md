@@ -19,10 +19,24 @@
 
 
 #### VS CODE
+
+Step 1. Install the p5.js VS Code extension
+* Search for "p5.vscode" in the VS Code Extensions Marketplace and install it. 
+* In the command palette,  type ‘Create p5.js project’
+* This will create a new folder to house your p5 sketch, save the folder. 
+* The folder will automatically open a new sketch.js file
+
+Step 2. Link the p5.js & p5 sound libraries in your HTML
+* To include javacript files, use the script tag with the attribute src
+<script src ="..." </script> to specify the url to your external file. 
+
+* In the index.html, under the <head> element add a two script tags 		withlinking the CDN for p5.js and the p5 sound library. 
+
+*The set up should look something like this:
 	Step 1. Install the p5.js VS Code extension
-	* Search for "p5.vscode" in the VS Code Extensions Marketplace and install it. 
+	* Search for "p5.vscode" in the VS Code Extensions Marketplace and 		install it. 
 	* In the command palette,  type ‘Create p5.js project’
-	* This will create a new folder to house your p5 sketch, save the folder. 
+	* This will create a new folder to house your p5 sketch, save the 		folder. 
 	* The folder will automatically open a new sketch.js file
  
 	Step 2. Link the p5.js & p5 sound libraries in your HTML
