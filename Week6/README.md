@@ -33,7 +33,7 @@
 
 <strong> Step 2. Link the p5.js & p5 sound libraries in your HTML </strong>
 * To include javacript files, use the script tag with the attribute src to specify the url to your external file. 
-``` <script src ="..." </script> ````
+``` <script src ="..." </script> ```
 
 * In the index.html, under the <head> element add a two script tags linking to the CDN for p5.js and the p5 sound library. 
 
