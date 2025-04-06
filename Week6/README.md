@@ -1,7 +1,7 @@
-#WEEK 6 - Sound & Data in p5
+# WEEK 6 - Sound & Data in p5
 
-##@P5.JS SOUND LIBRARY SET UP
-####PROCESSING
+## @P5.JS SOUND LIBRARY SET UP
+#### PROCESSING
 	Step 1.  Enable the p5.js sound library
 	*	Set mode to p5.js
 	*	Go to Sketch > Import Libraries > p5.sound
@@ -18,7 +18,7 @@
 			<!-- OK, YOU CAN MAKE CHANGES BELOW THIS LINE AGAIN -->
 
 
-####VS CODE
+#### VS CODE
 	Step 1. Install the p5.js VS Code extension
 	*	Search for "p5.vscode" in the VS Code Extensions Marketplace and install it. 
 	* In the command palette,  type ‘Create p5.js project’
@@ -32,13 +32,13 @@
 	*	This will add the p5 sound library into your html. 
 
 
-##@FONT
+## @FONT
 	* IBM Plex Mono Medium is the demo font. 
 	*	Use True Type Fonts for p5.js. These fonts have the file extension ‘.ttf’
 	* The full IBM Plex superfont family is free on Google Fonts
 
 
-##@REFERENCES
+## @REFERENCES
 * P5 Sound Reference https://p5js.org/reference/p5.sound/
 * P5 sound was redesigned in late 2024. Download the most up to date version here: <br>
   https://p5js.org/download/ <br> 
