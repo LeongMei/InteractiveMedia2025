@@ -21,20 +21,20 @@
 #### VS CODE
 	Step 1. Install the p5.js VS Code extension
 	*	Search for "p5.vscode" in the VS Code Extensions Marketplace and install it. 
-	* In the command palette,  type ‘Create p5.js project’
+	*	In the command palette,  type ‘Create p5.js project’
 	*	This will create a new folder to house your p5 sketch, save the folder. 
 	*	The folder will automatically open a new sketch.js file
  
 	Step 2. Install p5 sound library
 	*	In the command palette, search for ‘Install p5.js Contributor Library’ and select the link
-	* In the command palette search p5 sound
-	* Install p5 sound
+	*	In the command palette search p5 sound
+	*	Install p5 sound
 	*	This will add the p5 sound library into your html. 
 
 
 ## @FONT
 	* IBM Plex Mono Medium is the demo font. 
-	*	Use True Type Fonts for p5.js. These fonts have the file extension ‘.ttf’
+	* Use True Type Fonts for p5.js. These fonts have the file extension ‘.ttf’
 	* The full IBM Plex superfont family is free on Google Fonts
 
 
