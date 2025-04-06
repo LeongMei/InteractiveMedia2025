@@ -9,7 +9,9 @@
 <strong>Step. 2  Edit the index.html</strong>
 * Edit the <index.html> file to load the sound library inside the <head> tag.
 * Copy the first script tag: 
- ```<script language="javascript" type="text/javascript" src="libraries/p5.min.js"></script>```
+```
+<script language="javascript" type="text/javascript" src="libraries/p5.min.js"></script>
+```
 * Paste it right below & change the src (source) to “libraries/p5.sound.min.js” 
 * Your <head> section should now look like this:
 
