@@ -11,9 +11,10 @@
 * Copy the first script tag: 
  ```<script language="javascript" type="text/javascript" src="libraries/p5.min.js"></script>```
 * Paste it right below & change the src (source) to “libraries/p5.sound.min.js” 
-* Your <head> section should now look lie this:
+* Your <head> section should now look like this:
 
-```<!-- PLEASE NO CHANGES BELOW THIS LINE (UNTIL I SAY SO) -->
+```
+<!-- PLEASE NO CHANGES BELOW THIS LINE (UNTIL I SAY SO) -->
 <script language="javascript" type="text/javascript" src="libraries/p5.min.js </script>
 <script language="javascript" type="text/javascript"src="libraries/p5.sound.min.js"></script>
 <script language="javascript" type="text/javascript" src="sketchfilename.js"></script>
@@ -32,7 +33,7 @@
 * To include javacript files, use the script tag with the attribute src to specify the url to your external file. 
 ``` <script src ="..." </script> ````
 
-* In the index.html, under the <head> element add a two script tags 		withlinking the CDN for p5.js and the p5 sound library. 
+* In the index.html, under the <head> element add a two script tags linking to the CDN for p5.js and the p5 sound library. 
 
 *The set up should look something like this:
 	
@@ -54,9 +55,10 @@
 
 
 ## @REFERENCES
-* P5 Sound Reference https://p5js.org/reference/p5.sound/
-* P5 sound was redesigned in late 2024. Download the most up to date version here: <br>
+* p5 wiki on Github - a resource for embedding the canvas into HTML - "https://github.com/processing/p5.js/wiki/Positioning-your-canvas//
+* P5 sound was redesigned in late 2024. Download the most up to date version here <br>
 https://p5js.org/download/ <br>
+* P5 Sound Reference https://p5js.org/reference/p5.sound/
 
 
 
