@@ -25,11 +25,23 @@
 	* This will create a new folder to house your p5 sketch, save the folder. 
 	* The folder will automatically open a new sketch.js file
  
-	Step 2. Install p5 sound library
-	* In the command palette, search for ‘Install p5.js Contributor Library’ and select the link
-	* In the command palette search p5 sound
-	* Install p5 sound
-	* This will add the p5 sound library into your html. 
+	Step 2. Link the p5.js & p5 sound libraries in your HTML
+	* To include javacript files, use the script tag with the attribute src
+	<script src ="..." </script> to specify the url to your external file. 
+
+	* In the index.html, under the <head> element add a two script tags 		withlinking the CDN for p5.js and the p5 sound library. 
+
+  	*The set up should look something like this:
+
+```
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="https://cdn.jsdelivr.net/npm/p5@1.11.3/lib/p5.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.3/addons/p5.sound.min.js"</script>
+<script src="sketch.js"></script>
+</head>
+````
 
 
 ## @FONT
