@@ -27,8 +27,8 @@ Step 1. Install the p5.js VS Code extension
 * The folder will automatically open a new sketch.js file
 
 Step 2. Link the p5.js & p5 sound libraries in your HTML
-* To include javacript files, use the script tag with the attribute src
-<script src ="..." </script> to specify the url to your external file. 
+* To include javacript files, use the script tag with the attribute src to specify the url to your external file. 
+``` <script src ="..." </script> ````
 
 * In the index.html, under the <head> element add a two script tags 		withlinking the CDN for p5.js and the p5 sound library. 
 
@@ -59,15 +59,15 @@ Step 2. Link the p5.js & p5 sound libraries in your HTML
 
 
 ## @FONT
-	* IBM Plex Mono Medium is the demo font. 
-	* Use True Type Fonts for p5.js. These fonts have the file extension ‘.ttf’
-	* The full IBM Plex superfont family is free on Google Fonts
+* IBM Plex Mono Medium is the demo font. 
+* Use True Type Fonts for p5.js. These fonts have the file extension ‘.ttf’
+* The full IBM Plex superfont family is free on Google Fonts
 
 
 ## @REFERENCES
 * P5 Sound Reference https://p5js.org/reference/p5.sound/
 * P5 sound was redesigned in late 2024. Download the most up to date version here: <br>
-  https://p5js.org/download/ <br>
+https://p5js.org/download/ <br>
 
 
 
