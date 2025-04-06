@@ -2,24 +2,22 @@
 
 ## @P5.JS SOUND LIBRARY SET UP
 #### PROCESSING
-<strong> Step 1.  Enable the p5.js sound library </stromg>
+<strong> Step 1.  Enable the p5.js sound library </strong>
 	* Set mode to p5.js
 	* Go to Sketch > Import Libraries > p5.sound
 
 <strong>Step. 2  Edit the index.html</strong>
 	* Edit the <index.html> file to load the sound library inside the <head> 	tag.
 	* Copy the first script tag: 
- ```<script language="javascript" type="text/javascript" src="libraries/p5.min.js"></script>
-````
+ ```<script language="javascript" type="text/javascript" src="libraries/p5.min.js"></script>```
 * Paste it right below & change the src (source) to “libraries/p5.sound.min.js” 
 * Your <head> section should now look lie this:
 
-  ```
-  <!-- PLEASE NO CHANGES BELOW THIS LINE (UNTIL I SAY SO) -->
-  <script language="javascript" type="text/javascript" src="libraries/p5.min.js </script>
+  ```<!-- PLEASE NO CHANGES BELOW THIS LINE (UNTIL I SAY SO) --> <script language="javascript" type="text/javascript" src="libraries/p5.min.js </script>
 	<script language="javascript" type="text/javascript"src="libraries/p5.sound.min.js"></script>
-			<script language="javascript" type="text/javascript" src="sketchfilename.js"></script>
-			<!-- OK, YOU CAN MAKE CHANGES BELOW THIS LINE AGAIN -->```
+	<script language="javascript" type="text/javascript" src="sketchfilename.js"></script>
+<!-- OK, YOU CAN MAKE CHANGES BELOW THIS LINE AGAIN -->```
+
 #### VS CODE
 
 <strong> Step 1. Install the p5.js VS Code extension </strong>
